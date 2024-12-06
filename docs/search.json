@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R-4.4.1-Tooltip",
+    "section": "",
+    "text": "문장 내 특정 단어에 툴팁 표시하기\n이 문장에서 특정 단어에 마우스를 올리면 툴팁이 표시됩니다.\n\n\n다른 파일의 특정 섹선으로 이동하기\n대상 문서의 섹션으로 이동"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "예제 섹션\nAbout this site\n\n1 + 1\n\n[1] 2"
+  }
+]

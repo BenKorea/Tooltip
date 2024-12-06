@@ -1,0 +1,12 @@
+---
+title: "R-4.4.1-Tooltip"
+---
+
+# 문장 내 특정 단어에 툴팁 표시하기
+
+이 문장에서 <span class="text-primary" data-bs-toggle="tooltip" title="여기에 툴팁이 표시됩니다!">특정 단어</span>에 마우스를 올리면 툴팁이 표시됩니다.
+
+# 다른 파일의 특정 섹선으로 이동하기
+
+[대상 문서의 섹션으로 이동](about.qmd#example-section)
+
